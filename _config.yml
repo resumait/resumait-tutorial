@@ -5,9 +5,9 @@ remote_theme :         hydecorp/hydejack
 url:                   "https://resumait.github.io"
 base_url :             "/resumait-tutorial" 
 
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
-theme_color:           rgb(25,55,71)
+accent_image:          /assets/img/sidebar-bg-dark.jpg 
+accent_color:          rgb(30,30,30)                   
+theme_color:           rgb(10,10,10)                   
 
 google_fonts:          false
 
