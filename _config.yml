@@ -1,6 +1,6 @@
 lang:                  ko
-title:                 Hydejack
-copyright:             © 2024. All rights reserved.
+title:                 당신의 꿈을 함께 펼쳐봐요, 당신과 함께하는 특별한 AI 취업 컨설턴트, Resumait
+copyright:             © 2025. All rights reserved.
 remote_theme :         hydecorp/hydejack
 url:                   "https://resumait.github.io"
 base_url :             "/resumait-tutorial" 
