@@ -5,6 +5,18 @@ remote_theme :         hydecorp/hydejack
 url:                   "https://resumait.github.io"
 base_url :             "/resumait-tutorial" 
 
+# URL 구조를 카테고리 기반으로 변경
+permalink: /:categories/:title/
+
+# 카테고리 설정
+categories:
+  tutorial:
+    name: Tutorial
+    description: AI API 사용법 튜토리얼
+  prompt-guide:
+    name: Prompt 가이드
+    description: AI 프롬프트 작성 가이드
+
 accent_image:          /assets/img/sidebar.jpg 
 accent_color:          rgb(46, 46, 46)              
 theme_color:           rgb(24, 24, 24)                  
