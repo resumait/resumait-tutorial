@@ -8,7 +8,7 @@ tags: [환영, 첫글]
 
 안녕하세요! Resumait 서비스 가이드 홈페이지에 오신 여러분을 환영합니다. 
 
-![Resumait 서비스](/resumait-tutorial/assets/img/resumait-resume.jpg)
+![Resumait 서비스](assets/img/resumait-resume.jpg)
 
 ## 당신을 위한 취업 AI 취업 비서, Resumait
 
