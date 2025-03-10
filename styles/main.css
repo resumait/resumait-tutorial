@@ -1,9 +1,0 @@
-/* 링크 스타일 정의 */
-a {
-  color: #0066cc;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}

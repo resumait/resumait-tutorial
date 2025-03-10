@@ -84,3 +84,34 @@ compress_html:
 
 sass:
   style:               compressed
+
+favicon: assets/img/favicon.ico
+
+# 커스텀 CSS 설정
+sass:
+  style: compressed
+
+# GitHub Pages 테마 설정
+theme: jekyll-theme-minimal
+
+# 커스텀 스타일 추가
+github:
+  is_project_page: true
+  
+# 페이지 헤더에 커스텀 CSS 추가
+header_pages:
+  
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+# 커스텀 스타일 시트
+style: |
+  a {
+    color: #0066cc !important;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
